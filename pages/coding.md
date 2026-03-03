@@ -11,6 +11,6 @@ A browser game for learning and visualizing git commands.
 A simple coding program with a graphical interface.
 
 ## [Vulkan Tools](https://www.vulkan.org/tools)
-[Archived Link] (https://web.archive.org/web/20210607193108/https://www.vulkan.org/tools)
+[Archived Link](https://web.archive.org/web/20210607193108/https://www.vulkan.org/tools)
 
 A website containing GPU resources for Vulkan.
