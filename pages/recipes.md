@@ -19,3 +19,8 @@ An easy recipe to make delicious Potato Puncakes, Draniki!
 [Archived Link](https://web.archive.org/web/20240227143637/https://tastesbetterfromscratch.com/mississippi-mud-brownies/)
 
 My grandmas mississippi mud recipe is a lot different. This one has marshmallows?
+
+## [Pancit Palabok](https://panlasangpinoy.com/pancit-palabok-recipe/)
+[Archived Link](https://web.archive.org/web/20250614084406/https://panlasangpinoy.com/pancit-palabok-recipe/)
+
+A staple in Filipino cuisine; might seem like an odd plate of ingredients but trust me, it's good!
