@@ -15,7 +15,3 @@ A simple coding program with a graphical interface.
 
 A website containing GPU resources for Vulkan.
 
-## [DataCamp](https://www.datacamp.com)
-[Archived Link](https://web.archive.org/web/20260224044740/https://www.datacamp.com/)
-
-A website offering courses related to Python for data analytics, and related tools such as Power BI, mYSQL and more.
